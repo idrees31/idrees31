@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **performance optimization & scalability**
 
-- 👨‍💻 All of my projects are available at [https://github.com/idrees31](https://github.com/idrees31)
+- 👨‍💻 All of my projects are available at [https://github.com/idrees31](https://github.com/idrees31)](https://codiora.netlify.app/portfolio)
 
 - 💬 Ask me about **MERN stack development**
 
